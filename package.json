@@ -19,7 +19,7 @@
   "dependencies": {
     "@optimizely/optimizely-sdk": "^3.2.0",
     "cookie-parser": "^1.4.4",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-device": "^0.4.2",
     "starwars": "^1.0.1",
     "uuid": "^3.3.2"
